@@ -1,19 +1,41 @@
-# learningGit
-
 starting over
 
-a
 
+a 
+
+
+c
 
 d
 
 etest
 
-test on e
 f
 
 g
 
 q
 
+
 h
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e
+
+
+
+
